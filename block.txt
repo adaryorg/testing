@@ -1,3 +1,18 @@
-0.0.0.0 microsoft.ru
-0.0.0.0 google.ru
-0.0.0.0 facebook.ru
+microsoft.ru
+google.ru
+facebook.ru
+00px.net
+07b3.pandasuite.io
+0ddf.pandasuite.io
+0.myikas.com
+0.net.easyjet.com
+0sbm.consobaby.co.uk
+0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com
+10008919.pomelo.fashion
+10079290.fluz.app
+10298198.arch.sofi.org
+10298198.info.sofi.org
+10298198.m.sofi.org
+10298198.o.sofi.org
+102d.pandasuite.io
+10stepswp.advancedtech.com
