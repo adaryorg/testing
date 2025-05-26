@@ -1,0 +1,3 @@
+0.0.0.0 microsoft.ru
+0.0.0.0 google.ru
+0.0.0.0 facebook.ru
