@@ -1,6 +1,7 @@
 microsoft.ru
 google.ru
 facebook.ru
+*.tumblr.com
 0.0.0.0 adhall.com
 0.0.0.0 adhitzads.com
 0.0.0.0 aj.adjungle.com
